@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lru-cache": "^5.1.1",
     "redis": "^3.0.2"
   },
